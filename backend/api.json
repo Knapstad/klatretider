@@ -1,0 +1,75 @@
+[
+    {
+    "navn": "Vulkan bulder",
+    "sted": "Vulkan",
+    "type": "bulder",
+    "url":"https://www.planyo.com/fetch-data.php?id=54918&month=9&year=2021&resource_id=173180&grouped=1"
+    },
+    {
+    "navn": "Vulkan Galleriet",
+    "sted": "Vulkan",
+    "type": "tau",
+    "url":"https://www.planyo.com/fetch-data.php?id=54918&month=9&year=2021&resource_id=179533&grouped=1"
+    },
+    {
+    "navn": "Vulkan Hovedrommet",
+    "sted": "Vulkan",
+    "type": "tau",
+    "url":"https://www.planyo.com/fetch-data.php?id=54918&month=9&year=2021&resource_id=173178&grouped=1"
+    },
+    {
+    "navn": "Klatreverket Torshov toptau",
+    "sted": "Klatreverket Torshov",
+    "type": "tau",
+    "url":"https://nettbutikk.klatreverket.no/DNComponent/FetchRoomCalendarData?year=2021&weekNo=38&eventId=172&eventType=2&displayCapacityInSlots=True&adDays=0&acapacity=0&extratime=30&calendarType=Week&coursetype=None&offset=0"
+    },
+    {
+    "navn": "Klatreverket Torshov Bulder",
+    "sted": "Klatreverket Torshov",
+    "type": "buldre",
+    "url":"https://nettbutikk.klatreverket.no/DNComponent/FetchRoomCalendarData?year=2021&weekNo=38&eventId=171&eventType=2&displayCapacityInSlots=True&adDays=0&acapacity=0&extratime=30&calendarType=Week&coursetype=None&offset=0"
+    },
+    {
+    "navn": "Klatreverket Toshov Led",
+    "sted": "Klatreverket Torshov",
+    "type": "tau",
+    "url":"https://nettbutikk.klatreverket.no/DNComponent/FetchRoomCalendarData?year=2021&weekNo=38&eventId=175&eventType=2&displayCapacityInSlots=True&adDays=0&acapacity=0&extratime=30&calendarType=Week&coursetype=None&offset=0"
+    },
+    {
+    "navn": "Klatreverket Bryn",
+    "sted": "Klatreverket Bryn",
+    "type": "buldre",
+    "url":"https://nettbutikk.klatreverket.no/DNComponent/FetchRoomCalendarData?year=2021&weekNo=38&eventId=176&eventType=2&displayCapacityInSlots=True&adDays=0&acapacity=0&extratime=30&calendarType=Week&coursetype=None&offset=0"
+    },
+    {
+    "navn": "Osloklatresenter hovedrom",
+    "sted": "Osloklatresenter",
+    "type": "tau",
+    "url":"https://osloklatresenter.brpsystems.com/brponline/api/ver3/products/services/3230/suggestions?businessUnit=1&period=2021-09-23T00:00:00.000Z%7C2021-09-30T21:59:59.999Z"
+    },
+    {
+    "navn": "Osloklatresenter 2. etg",
+    "sted": "Osloklatresenter",
+    "type": "tau",
+    "url":"https://osloklatresenter.brpsystems.com/brponline/api/ver3/products/services/3232/suggestions?businessUnit=1&period=2021-09-23T22:00:00.000Z%7C2021-09-30T21:59:59.999Z"
+    },
+    {
+    "navn": "Osloklatresenter Barnerom og sone 2",
+    "sted": "Osloklatresenter",
+    "type": "tau",
+    "url":"https://osloklatresenter.brpsystems.com/brponline/api/ver3/products/services/3234/suggestions?businessUnit=1&period=2021-09-23T22:00:00.000Z%7C2021-09-30T21:59:59.999Z"
+    },
+    {
+    "navn": "Osloklatresenter Barnerom og sone 2",
+    "sted": "Osloklatresenter",
+    "type": "tau",
+    "url":"https://osloklatresenter.brpsystems.com/brponline/api/ver3/products/services/3234/suggestions?businessUnit=1&period=2021-09-23T22:00:00.000Z%7C2021-09-30T21:59:59.999Z"
+    },
+    {
+    "navn": "Osloklatresenter Buldring",
+    "sted": "Osloklatresenter",
+    "type": "buldre",
+    "url":"https://osloklatresenter.brpsystems.com/brponline/api/ver3/products/services/3233/suggestions?businessUnit=1&period=2021-09-23T22:00:00.000Z%7C2021-09-30T21:59:59.999Z"
+    }
+
+]
